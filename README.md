@@ -4,12 +4,12 @@ Make the Binary Quadratic Model for sports scheduling problem.
 Definitions and comments in this code are based on the following paper.
 
 Title:
-  SOLVING LARGE BREAK MINIMIZATION PROBLEMS IN A MIRRORED DOUBLE ROUND-ROBIN TOURNAMENT USING QUANTUM ANNEALING.
-  (https://arxiv.org/pdf/2110.07239.pdf)
+  Solving large break minimization problems in a mirrored double round-robin tournament using quantum annealing.
+  (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266846)
 
 Author:
-  Michiya Kuramata (Tokyo Institute of Technology, Tokyo, Japan)
-  Ryota Katsuki (NTT DATA, Tokyo, Japan)
+  Michiya Kuramata (Tokyo Institute of Technology, Tokyo, Japan)  
+  Ryota Katsuki (NTT DATA, Tokyo, Japan)  
   Nakata Kazuhide (Tokyo Institute of Technology, Tokyo, Japan)
 
 # Environment and Installation
@@ -31,11 +31,15 @@ If you use this program in your research, please cite:
 
 
 ```
-@article{kuramata2021solving,
-  title={Solving Large Break Minimization Problems in a Mirrored Double Round-robin Tournament Using Quantum Annealing},
+@article{kuramata2022solving,
+  title={Solving large break minimization problems in a mirrored double round-robin tournament using quantum annealing},
   author={Kuramata, Michiya and Katsuki, Ryota and Nakata, Kazuhide},
-  journal={arXiv preprint arXiv:2110.07239},
-  year={2021}
+  journal={Plos one},
+  volume={17},
+  number={4},
+  pages={e0266846},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
 
